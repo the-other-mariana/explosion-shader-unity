@@ -23,3 +23,8 @@ Open it as a Unity 3D project.<br />
 Preview version of an explosion using the shader is:<br />
 
 ![alt text](https://github.com/the-other-mariana/explosion-shader-unity/blob/master/shader-gif.gif)<br />
+
+## Siggraph 2020 FSSW Exhibit 
+
+
+![alt text](https://github.com/the-other-mariana/explosion-shader-unity/blob/master/siggraph/FSSW-version.png?raw=true)<br />
